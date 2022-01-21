@@ -4,7 +4,7 @@
     "neon",
     "defi"
   ],
-  "timestamp": "2021-12-22T16:25:21.524+03:00",
+  "timestamp": "2022-01-21T16:23:10.090+03:00",
   "tokens": [
     {
       "chainId": 111,
@@ -84,6 +84,14 @@
       "symbol": "wBAL"
     },
     {
+      "chainId": 111,
+      "address_spl": "So11111111111111111111111111111111111111112",
+      "address": "0xaede7ae447d63f0d2020621eacf759e539cbfadd",
+      "decimals": 9,
+      "name": "Wrapped SOL",
+      "symbol": "wSOL"
+    },
+    {
       "chainId": 245022934,
       "address_spl": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
       "address": "0x0a5bD0108227B3DFeC64199D6939841eeCF47a8E",
@@ -161,6 +169,14 @@
       "symbol": "wBAL"
     },
     {
+      "chainId": 245022934,
+      "address_spl": "So11111111111111111111111111111111111111112",
+      "address": "0xaede7ae447d63f0d2020621eacf759e539cbfadd",
+      "decimals": 9,
+      "name": "Wrapped SOL",
+      "symbol": "wSOL"
+    },
+    {
       "chainId": 245022940,
       "address_spl": "3vxj94fSd3jrhaGAwaEKGDPEwn5Yqs81Ay5j1BcdMqSZ",
       "address": "0x0a5bD0108227B3DFeC64199D6939841eeCF47a8E",
@@ -238,6 +254,14 @@
       "symbol": "wBAL"
     },
     {
+      "chainId": 245022940,
+      "address_spl": "So11111111111111111111111111111111111111112",
+      "address": "0xaede7ae447d63f0d2020621eacf759e539cbfadd",
+      "decimals": 9,
+      "name": "Wrapped SOL",
+      "symbol": "wSOL"
+    },
+    {
       "chainId": 245022926,
       "address_spl": "3vxj94fSd3jrhaGAwaEKGDPEwn5Yqs81Ay5j1BcdMqSZ",
       "address": "0x0a5bD0108227B3DFeC64199D6939841eeCF47a8E",
@@ -313,6 +337,14 @@
       "decimals": 9,
       "name": "Balancer (Wormhole)",
       "symbol": "wBAL"
+    },
+    {
+      "chainId": 245022926,
+      "address_spl": "So11111111111111111111111111111111111111112",
+      "address": "0xaede7ae447d63f0d2020621eacf759e539cbfadd",
+      "decimals": 9,
+      "name": "Wrapped SOL",
+      "symbol": "wSOL"
     }
   ],
   "version": {
