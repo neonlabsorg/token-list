@@ -343,8 +343,8 @@
       "address_spl": "So11111111111111111111111111111111111111112",
       "address": "0xaede7ae447d63f0d2020621eacf759e539cbfadd",
       "decimals": 9,
-      "name": "Wrapped SOL Test",
-      "symbol": "wSOLt"
+      "name": "Wrapped SOL",
+      "symbol": "wSOL"
     }
   ],
   "version": {
