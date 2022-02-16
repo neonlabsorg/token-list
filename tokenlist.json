@@ -321,6 +321,30 @@
       "decimals": 9,
       "name": "Curve DAO Token (Wormhole)",
       "symbol": "wCRV"
+    },
+    {
+      "chainId": 245022926,
+      "address_spl": "GhFhboJyEt1iHYu6r563y3PxZQ4j8YserdF7YiCYcJUX",
+      "address": "0xB3fd58EDA12A6E5577a962aaaA3B15037E756EB4",
+      "decimals": 6,
+      "name": "Wrapped SUSHI (Sollet)",
+      "symbol": "SUSHI"
+    },
+    {
+      "chainId": 245022926,
+      "address_spl": "HU4jzc8c716ryzkfKYtg8PeJfYhjFmkmd3BGUh84fXqQ",
+      "address": "0xC60911b5577F10F582914205d61C64622A6924d8",
+      "decimals": 9,
+      "name": "Balancer (Wormhole)",
+      "symbol": "wBAL"
+    },
+    {
+      "chainId": 245022926,
+      "address_spl": "So11111111111111111111111111111111111111112",
+      "address": "0xaede7ae447d63f0d2020621eacf759e539cbfadd",
+      "decimals": 9,
+      "name": "Wrapped SOL Test",
+      "symbol": "wSOLt"
     }
   ],
   "version": {
