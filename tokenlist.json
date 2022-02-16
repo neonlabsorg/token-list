@@ -329,14 +329,6 @@
       "decimals": 6,
       "name": "Wrapped SUSHI (Sollet)",
       "symbol": "SUSHI"
-    },
-    {
-      "chainId": 245022926,
-      "address_spl": "HU4jzc8c716ryzkfKYtg8PeJfYhjFmkmd3BGUh84fXqQ",
-      "address": "0xC60911b5577F10F582914205d61C64622A6924d8",
-      "decimals": 9,
-      "name": "Balancer (Wormhole)",
-      "symbol": "wBAL"
     }
   ],
   "version": {
