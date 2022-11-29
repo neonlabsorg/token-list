@@ -94,6 +94,13 @@
 
     {
       "chainId": 245022926,
+      "address": "0x11adC2d986E334137b9ad0a0F290771F31e9517F",
+      "decimals": 18,
+      "name": "Wrapped Neon",
+      "symbol": "WNEON"
+    },
+    {
+      "chainId": 245022926,
       "address_spl": "3vxj94fSd3jrhaGAwaEKGDPEwn5Yqs81Ay5j1BcdMqSZ",
       "address": "0xAA24A5A5E273EFAa64a960B28de6E27B87FfDFfc",
       "decimals": 6,
@@ -343,7 +350,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
