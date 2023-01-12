@@ -13,7 +13,7 @@
       "decimals": 6,
       "name": "USDT",
       "symbol": "USDT",
-      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.svg?v=024"
+      "logoURI": "/assets/tether-usdt-logo.svg"
     },
     {
       "chainId": 111,
