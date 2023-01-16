@@ -13,7 +13,7 @@
       "decimals": 6,
       "name": "USDT",
       "symbol": "USDT",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/tether-usdt-logo.svg"
     },
     {
       "chainId": 111,
@@ -22,7 +22,7 @@
       "decimals": 9,
       "name": "Dai Stablecoin (Wormhole)",
       "symbol": "wDAI",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/multi-collateral-dai-dai-logo.svg"
     },
     {
       "chainId": 111,
@@ -31,7 +31,7 @@
       "decimals": 6,
       "name": "USDC",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/usd-coin-usdc-logo.svg"
     },
     {
       "chainId": 111,
@@ -40,7 +40,7 @@
       "decimals": 6,
       "name": "Wrapped Ethereum (Sollet)",
       "symbol": "ETH",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/ethereum-eth-logo.svg"
     },
     {
       "chainId": 111,
@@ -49,7 +49,7 @@
       "decimals": 8,
       "name": "Wrapped BTC (Wormhole)",
       "symbol": "wWBTC",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/wrapped-bitcoin-wbtc.svg"
     },
     {
       "chainId": 111,
@@ -57,7 +57,8 @@
       "address": "0x142Ec1Db2dc73932AE590C429D2BFd13732b70e2",
       "decimals": 6,
       "name": "Wrapped Aave",
-      "symbol": "AAVE"
+      "symbol": "AAVE",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/aave-aave-logo.svg"
     },
     {
       "chainId": 111,
@@ -65,7 +66,8 @@
       "address": "0x633AC0dE8749f6c2fACb73665a05c622a272f291",
       "decimals": 9,
       "name": "Curve DAO Token (Wormhole)",
-      "symbol": "wCRV"
+      "symbol": "wCRV",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/curve-dao-logo.svg"
     },
     {
       "chainId": 111,
@@ -73,7 +75,8 @@
       "address": "0xa2b3D9E1E92Af208Ed6bc41d4428e500569Af66F",
       "decimals": 6,
       "name": "Wrapped SUSHI (Sollet)",
-      "symbol": "SUSHI"
+      "symbol": "SUSHI",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/sushiswap-sushi-logo.svg"
     },
     {
       "chainId": 111,
@@ -81,7 +84,8 @@
       "address": "0x42D8b8A634F8e65e799BF762054647e589b4F73a",
       "decimals": 9,
       "name": "Balancer (Wormhole)",
-      "symbol": "wBAL"
+      "symbol": "wBAL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/balancer-bal.svg"
     },
     {
       "chainId": 111,
@@ -89,7 +93,8 @@
       "address": "0x16869acc45BA20abEFB2DdE2096F66373fDe364F",
       "decimals": 9,
       "name": "Wrapped SOL",
-      "symbol": "wSOL"
+      "symbol": "wSOL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/solana-sol-logo.svg"
     },
 
     {
@@ -106,7 +111,7 @@
       "decimals": 6,
       "name": "USDT",
       "symbol": "USDT",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/tether-usdt-logo.svg"
     },
     {
       "chainId": 245022926,
@@ -115,7 +120,7 @@
       "decimals": 9,
       "name": "Dai Stablecoin (Wormhole)",
       "symbol": "wDAI",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/multi-collateral-dai-dai-logo.svg"
     },
     {
       "chainId": 245022926,
@@ -124,7 +129,7 @@
       "decimals": 6,
       "name": "USDC",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/usd-coin-usdc-logo.svg"
     },
     {
       "chainId": 245022926,
@@ -133,7 +138,7 @@
       "decimals": 6,
       "name": "Wrapped Ethereum (Sollet)",
       "symbol": "ETH",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/ethereum-eth-logo.svg"
     },
     {
       "chainId": 245022926,
@@ -142,7 +147,7 @@
       "decimals": 8,
       "name": "Wrapped BTC (Wormhole)",
       "symbol": "wWBTC",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/wrapped-bitcoin-wbtc.svg"
     },
     {
       "chainId": 245022926,
@@ -150,7 +155,8 @@
       "address": "0xAb94bD2221cAc77FEbDB0B979Eb8839Ed7dDB981",
       "decimals": 6,
       "name": "Wrapped Aave",
-      "symbol": "AAVE"
+      "symbol": "AAVE",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/aave-aave-logo.svg"
     },
     {
       "chainId": 245022926,
@@ -158,7 +164,8 @@
       "address": "0xcd7cD0Fe96D89aA98F1cB8f17cD31dCb6eA90D0d",
       "decimals": 9,
       "name": "Curve DAO Token (Wormhole)",
-      "symbol": "wCRV"
+      "symbol": "wCRV",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/curve-dao-logo.svg"
     },
     {
       "chainId": 245022926,
@@ -166,7 +173,8 @@
       "address": "0x74bcA1362b31d52198E102d9E5f5B9af360D6750",
       "decimals": 6,
       "name": "Wrapped SUSHI (Sollet)",
-      "symbol": "SUSHI"
+      "symbol": "SUSHI",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/sushiswap-sushi-logo.svg"
     },
     {
       "chainId": 245022926,
@@ -174,7 +182,8 @@
       "address": "0x4C694ac087B2D1DFcB7e868af6C0561f070B7f6C",
       "decimals": 9,
       "name": "Balancer (Wormhole)",
-      "symbol": "wBAL"
+      "symbol": "wBAL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/balancer-bal.svg"
     },
 
     {
@@ -184,7 +193,7 @@
       "decimals": 6,
       "name": "USDT",
       "symbol": "USDT",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/tether-usdt-logo.svg"
     },
     {
       "chainId": 245022940,
@@ -193,7 +202,7 @@
       "decimals": 9,
       "name": "Dai Stablecoin (Wormhole)",
       "symbol": "wDAI",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/multi-collateral-dai-dai-logo.svg"
     },
     {
       "chainId": 245022940,
@@ -202,7 +211,7 @@
       "decimals": 6,
       "name": "USDC",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/usd-coin-usdc-logo.svg"
     },
     {
       "chainId": 245022940,
@@ -211,7 +220,7 @@
       "decimals": 6,
       "name": "Wrapped Ethereum (Sollet)",
       "symbol": "ETH",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/ethereum-eth-logo.svg"
     },
     {
       "chainId": 245022940,
@@ -220,7 +229,7 @@
       "decimals": 8,
       "name": "Wrapped BTC (Wormhole)",
       "symbol": "wWBTC",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/wrapped-bitcoin-wbtc.svg"
     },
     {
       "chainId": 245022940,
@@ -228,7 +237,8 @@
       "address": "0x142Ec1Db2dc73932AE590C429D2BFd13732b70e2",
       "decimals": 6,
       "name": "Wrapped Aave",
-      "symbol": "AAVE"
+      "symbol": "AAVE",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/aave-aave-logo.svg"
     },
     {
       "chainId": 245022940,
@@ -236,7 +246,8 @@
       "address": "0x633AC0dE8749f6c2fACb73665a05c622a272f291",
       "decimals": 9,
       "name": "Curve DAO Token (Wormhole)",
-      "symbol": "wCRV"
+      "symbol": "wCRV",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/curve-dao-logo.svg"
     },
     {
       "chainId": 245022940,
@@ -244,7 +255,8 @@
       "address": "0xa2b3D9E1E92Af208Ed6bc41d4428e500569Af66F",
       "decimals": 6,
       "name": "Wrapped SUSHI (Sollet)",
-      "symbol": "SUSHI"
+      "symbol": "SUSHI",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/sushiswap-sushi-logo.svg"
     },
     {
       "chainId": 245022940,
@@ -260,7 +272,8 @@
       "address": "0x16869acc45BA20abEFB2DdE2096F66373fDe364F",
       "decimals": 9,
       "name": "Wrapped SOL",
-      "symbol": "wSOL"
+      "symbol": "wSOL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/solana-sol-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -269,7 +282,7 @@
       "decimals": 6,
       "name": "USDT",
       "symbol": "USDT",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/tether-usdt-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -278,7 +291,7 @@
       "decimals": 9,
       "name": "Dai Stablecoin (Wormhole)",
       "symbol": "wDAI",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/multi-collateral-dai-dai-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -287,7 +300,7 @@
       "decimals": 6,
       "name": "USDC",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/usd-coin-usdc-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -296,7 +309,7 @@
       "decimals": 6,
       "name": "Wrapped Ethereum (Sollet)",
       "symbol": "ETH",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/ethereum-eth-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -305,7 +318,7 @@
       "decimals": 8,
       "name": "Wrapped BTC (Wormhole)",
       "symbol": "wWBTC",
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/wrapped-bitcoin-wbtc.svg"
     },
     {
       "chainId": 245022934,
@@ -313,7 +326,8 @@
       "address": "0x142Ec1Db2dc73932AE590C429D2BFd13732b70e2",
       "decimals": 6,
       "name": "Wrapped Aave",
-      "symbol": "AAVE"
+      "symbol": "AAVE",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/aave-aave-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -321,7 +335,8 @@
       "address": "0x633AC0dE8749f6c2fACb73665a05c622a272f291",
       "decimals": 9,
       "name": "Curve DAO Token (Wormhole)",
-      "symbol": "wCRV"
+      "symbol": "wCRV",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/curve-dao-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -329,7 +344,8 @@
       "address": "0xa2b3D9E1E92Af208Ed6bc41d4428e500569Af66F",
       "decimals": 6,
       "name": "Wrapped SUSHI (Sollet)",
-      "symbol": "SUSHI"
+      "symbol": "SUSHI",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/sushiswap-sushi-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -337,7 +353,8 @@
       "address": "0x42D8b8A634F8e65e799BF762054647e589b4F73a",
       "decimals": 9,
       "name": "Balancer (Wormhole)",
-      "symbol": "wBAL"
+      "symbol": "wBAL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/balancer-bal.svg"
     },
     {
       "chainId": 245022934,
@@ -345,12 +362,13 @@
       "address": "0x16869acc45BA20abEFB2DdE2096F66373fDe364F",
       "decimals": 9,
       "name": "Wrapped SOL",
-      "symbol": "wSOL"
+      "symbol": "wSOL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/v2.1.13/assets/solana-sol-logo.svg"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
