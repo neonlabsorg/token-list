@@ -94,7 +94,7 @@
       "decimals": 9,
       "name": "Wrapped SOL",
       "symbol": "wSOL",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solana-sol-logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solana-wsol-logo.svg"
     },
     {
       "chainId": 245022926,
@@ -273,7 +273,7 @@
       "decimals": 9,
       "name": "Wrapped SOL",
       "symbol": "wSOL",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solana-sol-logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solana-wsol-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -363,7 +363,7 @@
       "decimals": 9,
       "name": "Wrapped SOL",
       "symbol": "wSOL",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solana-sol-logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solana-wsol-logo.svg"
     }
   ],
   "version": {
