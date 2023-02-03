@@ -7,6 +7,34 @@
   "timestamp": "2022-10-06T15:20:13.751+03:00",
   "tokens": [
     {
+      "chainId": 245022939,
+      "address_spl": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "address": "0xf426d3A0EF80455dC9265b1c27C42B00336cF39F",
+      "decimals": 6,
+      "name": "USDT",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/tether-usdt-logo.svg"
+    },
+    {
+      "chainId": 245022939,
+      "address_spl": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "address": "0x65a326B15d7302F87E2C2fbbb90D86e1555007b9",
+      "decimals": 6,
+      "name": "USDC",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/usd-coin-usdc-logo.svg"
+    },
+    {
+      "chainId": 245022939,
+      "address_spl": "So11111111111111111111111111111111111111112",
+      "address": "0xe97dD0F6309Cc68cc114D9006FFd27731d0AA873",
+      "decimals": 9,
+      "name": "Wrapped SOL",
+      "symbol": "wSOL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solana-wsol-logo.svg"
+    },
+
+    {
       "chainId": 111,
       "address_spl": "3vxj94fSd3jrhaGAwaEKGDPEwn5Yqs81Ay5j1BcdMqSZ",
       "address": "0x5EE2CDe31b5d88A0574DAD2B4bb6A073A5b228a8",
@@ -368,7 +396,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
