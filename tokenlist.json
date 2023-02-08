@@ -33,6 +33,14 @@
       "symbol": "wSOL",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solana-wsol-logo.svg"
     },
+    {
+      "chainId": 245022939,
+      "address": "0x57469B41E66B9b2Ad1750602451Dd3F1Fc10369B",
+      "decimals": 18,
+      "name": "Wrapped Neon",
+      "symbol": "wNEON",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wrapped-neon-logo.svg"
+    },
 
     {
       "chainId": 111,
@@ -396,7 +404,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
