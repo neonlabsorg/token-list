@@ -221,6 +221,15 @@
       "symbol": "wBAL",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/balancer-bal.svg"
     },
+    {
+      "chainId": 245022926,
+      "address_spl": "So11111111111111111111111111111111111111112",
+      "address": "0x302882E0c607c58018be3BB186b0aA0aC4F90136",
+      "decimals": 9,
+      "name": "Wrapped SOL",
+      "symbol": "wSOL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solana-wsol-logo.svg"
+    },
 
     {
       "chainId": 245022940,
@@ -404,7 +413,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
