@@ -323,7 +323,7 @@
     {
       "chainId": 245022934,
       "address_spl": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-      "address": "0x5EE2CDe31b5d88A0574DAD2B4bb6A073A5b228a8",
+      "address": "0x5f0155d08eF4aaE2B500AefB64A3419dA8bB611a",
       "decimals": 6,
       "name": "USDT",
       "symbol": "USDT",
@@ -331,17 +331,8 @@
     },
     {
       "chainId": 245022934,
-      "address_spl": "FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1",
-      "address": "0x437c2606460cf14cbD33F5E266a2FaD044C5b74c",
-      "decimals": 9,
-      "name": "Dai Stablecoin (Wormhole)",
-      "symbol": "wDAI",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/multi-collateral-dai-dai-logo.svg"
-    },
-    {
-      "chainId": 245022934,
       "address_spl": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "address": "0x341b332b35441c37c1211f02F2C03c1516ac3AC8",
+      "address": "0xEA6B04272f9f62F997F666F07D3a974134f7FFb9",
       "decimals": 6,
       "name": "USDC",
       "symbol": "USDC",
@@ -349,70 +340,24 @@
     },
     {
       "chainId": 245022934,
-      "address_spl": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
-      "address": "0xbd5C9b22c9e0C41fE93aA863Da1402306A76d4fe",
-      "decimals": 6,
-      "name": "Wrapped Ethereum (Sollet)",
-      "symbol": "ETH",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/ethereum-eth-logo.svg"
-    },
-    {
-      "chainId": 245022934,
-      "address_spl": "qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL",
-      "address": "0x7Db49A319636818f38dc2d12B51b13192e1b9141",
-      "decimals": 8,
-      "name": "Wrapped BTC (Wormhole)",
-      "symbol": "wWBTC",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wrapped-bitcoin-wbtc.svg"
-    },
-    {
-      "chainId": 245022934,
-      "address_spl": "dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc",
-      "address": "0x142Ec1Db2dc73932AE590C429D2BFd13732b70e2",
-      "decimals": 6,
-      "name": "Wrapped Aave",
-      "symbol": "AAVE",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/aave-aave-logo.svg"
-    },
-    {
-      "chainId": 245022934,
-      "address_spl": "ApmXkxXCASdxRf3Ln6Ni7oAZ7E6CX1CcJAD8A5qBdhSm",
-      "address": "0x633AC0dE8749f6c2fACb73665a05c622a272f291",
-      "decimals": 9,
-      "name": "Curve DAO Token (Wormhole)",
-      "symbol": "wCRV",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/curve-dao-logo.svg"
-    },
-    {
-      "chainId": 245022934,
-      "address_spl": "AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy",
-      "address": "0xa2b3D9E1E92Af208Ed6bc41d4428e500569Af66F",
-      "decimals": 6,
-      "name": "Wrapped SUSHI (Sollet)",
-      "symbol": "SUSHI",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/sushiswap-sushi-logo.svg"
-    },
-    {
-      "chainId": 245022934,
-      "address_spl": "HPYXGSdAwyK5GwmuivL8gDdUVRChtgXq6SRat44k4Pat",
-      "address": "0x42D8b8A634F8e65e799BF762054647e589b4F73a",
-      "decimals": 9,
-      "name": "Balancer (Wormhole)",
-      "symbol": "wBAL",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/balancer-bal.svg"
-    },
-    {
-      "chainId": 245022934,
       "address_spl": "So11111111111111111111111111111111111111112",
-      "address": "0x16869acc45BA20abEFB2DdE2096F66373fDe364F",
+      "address": "0x5f38248f339Bf4e84A2caf4e4c0552862dC9F82a",
       "decimals": 9,
       "name": "Wrapped SOL",
       "symbol": "wSOL",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solana-wsol-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address": "0x202C35e517Fa803B537565c40F0a6965D7204609",
+      "decimals": 18,
+      "name": "Wrapped Neon",
+      "symbol": "wNEON",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wrapped-neon-logo.svg"
     }
   ],
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   }
