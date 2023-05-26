@@ -354,7 +354,7 @@
       "decimals": 8,
       "name": "Wrapped Ether (Wormhole)",
       "symbol": "WETH",
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wormhole-weth-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -363,7 +363,7 @@
       "decimals": 6,
       "name": "Wrapped Bitcoin (Sollet)",
       "symbol": "BTC",
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/sollet-wbtc-logo.svg"
     },
     {
       "chainId": 245022934,
