@@ -372,11 +372,20 @@
       "name": "Wrapped Neon",
       "symbol": "wNEON",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wrapped-neon-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp",
+      "address": "0x14CCfFC97aC156A7f1E3183adAa8E7CC888AD162",
+      "decimals": 9,
+      "name": "Liquid Staking Token",
+      "symbol": "LST",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/liquid-staking-token-logo.png"
     }
   ],
   "version": {
     "major": 5,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
