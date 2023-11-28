@@ -381,11 +381,83 @@
       "name": "Liquid Staking Token",
       "symbol": "LST",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/liquid-staking-token-logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+      "address": "0xFA8fB7e3bd299B2A9693B1BFDCf5DD13Ab57007E",
+      "decimals": 9,
+      "name": "Jito Staked SOL",
+      "symbol": "JitoSOL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/jitosol-token-logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+      "address": "0x6EFFb385713f22df4846d8156451a5efEC22a4c8",
+      "decimals": 9,
+      "name": "Marinade staked SOL (mSOL)",
+      "symbol": "mSOL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/marinade-staked-sol-logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "address": "0xD4B6520f7Fb78E1EE75639F3376c581a71bcdb0E",
+      "decimals": 5,
+      "name": "Bonk",
+      "symbol": "Bonk",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/bonk-token-logo.jpeg"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "MELLd8PyFoeNW3D5VaUe7L96eZeihtrzgLWrbKz5DR2",
+      "address": "0x26320e7ffd9be68ca61c1C75b3Be4aAb0AA98E1f",
+      "decimals": 6,
+      "name": "Mellivora",
+      "symbol": "MELL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/Mellivora-token-logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "MangoCzJ36AjZyKwVj3VnYU4GTonjfVEnJmvvWaxLac",
+      "address": "0x6d12eAA69f8e4902D3F83d546B31F7318717014C",
+      "decimals": 6,
+      "name": "Mango",
+      "symbol": "MNGO",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/mango-token-logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "Dwri1iuy5pDFf2u2GwwsH2MxjR6dATyDv9En9Jk8Fkof",
+      "address": "0x96e636d3Ef60ee9745945120010c73619144632C",
+      "decimals": 9,
+      "name": "2080",
+      "symbol": "2080",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/fidelion-token-logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+      "address": "0x0575dD4AFD93B7522fEE4e0179f243ecA3856137",
+      "decimals": 6,
+      "name": "Pyth Network",
+      "symbol": "PYTH",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/pyth-token-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+      "address": "0x16a3Fe59080D6944A42B441E44450432C1445372",
+      "decimals": 8,
+      "name": "Wrapped BTC (Wormhole)",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wrapped-btc-wormhole-logo.png"
     }
   ],
   "version": {
     "major": 5,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
