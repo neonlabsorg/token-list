@@ -380,7 +380,7 @@
       "decimals": 9,
       "name": "Liquid Staking Token",
       "symbol": "LST",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/liquid-staking-token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/liquid-staking-token-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -389,7 +389,7 @@
       "decimals": 9,
       "name": "Jito Staked SOL",
       "symbol": "JitoSOL",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/jitosol-token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/jitosol-token-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -398,7 +398,7 @@
       "decimals": 9,
       "name": "Marinade staked SOL (mSOL)",
       "symbol": "mSOL",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/marinade-staked-sol-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/marinade-staked-sol-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -407,7 +407,7 @@
       "decimals": 5,
       "name": "Bonk",
       "symbol": "Bonk",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/bonk-token-logo.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/bonk-token-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -416,7 +416,7 @@
       "decimals": 6,
       "name": "Mellivora",
       "symbol": "MELL",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/Mellivora-token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/Mellivora-token-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -425,7 +425,7 @@
       "decimals": 6,
       "name": "Mango",
       "symbol": "MNGO",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/mango-token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/mango-token-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -434,7 +434,7 @@
       "decimals": 9,
       "name": "2080",
       "symbol": "2080",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/fidelion-token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/fidelion-token-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -452,7 +452,7 @@
       "decimals": 8,
       "name": "Wrapped BTC (Wormhole)",
       "symbol": "WBTC",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wrapped-btc-wormhole-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wrapped-btc-wormhole-logo.svg"
     }
   ],
   "version": {
