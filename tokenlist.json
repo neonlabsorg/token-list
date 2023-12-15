@@ -453,11 +453,20 @@
       "name": "Wrapped BTC (Wormhole)",
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wrapped-btc-wormhole-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+      "address": "0x799dBaC6fE5738efeB4716433Eea7838Dd1A1F6c",
+      "decimals": 9,
+      "name": "JITO",
+      "symbol": "JTO",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/jito-logo.png"
     }
   ],
   "version": {
     "major": 5,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
