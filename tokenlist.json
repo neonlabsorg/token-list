@@ -471,11 +471,20 @@
       "name": "Blaze",
       "symbol": "BLZE",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/blaze-token-logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
+      "address": "",
+      "decimals": 5,
+      "name": "Wen",
+      "symbol": "WEN",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wen-token-logo.png"
     }
   ],
   "version": {
     "major": 5,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
