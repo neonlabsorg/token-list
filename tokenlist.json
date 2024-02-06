@@ -474,6 +474,15 @@
     },
     {
       "chainId": 245022934,
+      "address_spl": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+      "address": "0x7b9f9033afcf602b556a7aeac5871a52b56a06ee",
+      "decimals": 9,
+      "name": "JPool Staked SOL",
+      "symbol": "JSOL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/jsol-logo.svg"
+    },
+    {
+      "chainId": 245022934,
       "address_spl": "5qkTJu3hVd3SYToWpyHUmGfiLR48jj9oSz1WniV1UcgS",
       "address": "0x9950ef047D87599EB28bF5E9Fc7F63cEd1b5F4AE",
       "decimals": 9,
@@ -484,7 +493,7 @@
   ],
   "version": {
     "major": 5,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
