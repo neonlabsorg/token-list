@@ -471,11 +471,20 @@
       "name": "Blaze",
       "symbol": "BLZE",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/blaze-token-logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+      "address": "0x7b9f9033afcf602b556a7aeac5871a52b56a06ee",
+      "decimals": 9,
+      "name": "JPool Staked SOL",
+      "symbol": "JSOL",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/jsol-logo.svg"
     }
   ],
   "version": {
     "major": 5,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
