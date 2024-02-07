@@ -470,7 +470,7 @@
       "decimals": 9,
       "name": "Blaze",
       "symbol": "BLZE",
-      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/blaze-token-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/blaze-token-logo.svg"
     },
     {
       "chainId": 245022934,
@@ -494,6 +494,6 @@
   "version": {
     "major": 5,
     "minor": 6,
-    "patch": 0
+    "patch": 1
   }
 }
