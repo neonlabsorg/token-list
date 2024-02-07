@@ -480,11 +480,20 @@
       "name": "JPool Staked SOL",
       "symbol": "JSOL",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/jsol-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "5qkTJu3hVd3SYToWpyHUmGfiLR48jj9oSz1WniV1UcgS",
+      "address": "0x9950ef047D87599EB28bF5E9Fc7F63cEd1b5F4AE",
+      "decimals": 9,
+      "name": "Curio Governance Token",
+      "symbol": "CGT",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/cgt-token-logo.svg"
     }
   ],
   "version": {
     "major": 5,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
