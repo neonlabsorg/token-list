@@ -489,11 +489,38 @@
       "name": "Curio Governance Token",
       "symbol": "CGT",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/cgt-token-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "address": "0x9F0fCE2AB962984b1EE50108A8510eA190BeEb8d",
+      "decimals": 6,
+      "name": "Jupiter",
+      "symbol": "JUP",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/jupiter-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+      "address": "0xF86934c2b05c31f3bBE3BCd6E3a8aA7790cAd9c1",
+      "decimals": 6,
+      "name": "dogwifhat",
+      "symbol": "$WIF",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/dogwifhat-logo.png"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
+      "address": "0xc61e8aB62666D25F0854C5723587507A7E92E289",
+      "decimals": 5,
+      "name": "Wen",
+      "symbol": "WEN",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/wen-logo.png"
     }
   ],
   "version": {
     "major": 5,
-    "minor": 6,
-    "patch": 1
+    "minor": 7,
+    "patch": 0
   }
 }
