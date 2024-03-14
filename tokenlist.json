@@ -524,12 +524,12 @@
       "decimals": 9,
       "name": "POPCAT",
       "symbol": "POPCAT",
-      "logoURI": "https://arweave.net/A1etRNMKxhlNGTf-gNBtJ75QJJ4NJtbKh_UXQTlLXzI"
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/PopCat-logo.svg"
     }
   ],
   "version": {
     "major": 5,
     "minor": 8,
-    "patch": 3
+    "patch": 1
   }
 }
