@@ -525,6 +525,15 @@
       "name": "POPCAT",
       "symbol": "POPCAT",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/popcat-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "9uhHjyfc5tKdaZnjstLLKoLGcF889ub8zX9wtwhtzgK6",
+      "address": "0x663572b924db12e0e3822c6160df29154630c8e3",
+      "decimals": 8,
+      "name": "WHALEBERT",
+      "symbol": "WHALE",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/whale-token-logo.svg"
     }
   ],
   "version": {
