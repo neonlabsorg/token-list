@@ -534,7 +534,16 @@
       "name": "WHALEBERT",
       "symbol": "WHALE",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/whale-token-logo.svg"
-    }
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "AdF1uu3EjtHA3so33EYBjZ2VGDqBWDrzLzmzNcPq6bae",
+      "address": "0xc2e4acbb521aa9e83832a419535f928517bd087d",
+      "decimals": 6,
+      "name": "TIGER KING",
+      "symbol": "TKING",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/tking-logo.png"
+    }    
   ],
   "version": {
     "major": 5,
