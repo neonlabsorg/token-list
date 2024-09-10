@@ -534,6 +534,15 @@
       "name": "WHALEBERT",
       "symbol": "WHALE",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/whale-token-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "ULwSJmmpxmnRfpu6BjnK6rprKXqD5jXUmPpS1FxHXFy",
+      "address": "0x6Eb3d07B0E3A9b432A0e3828820e7c9cbEDfcD0B",
+      "decimals": 9,
+      "name": "Hege",
+      "symbol": "HEGE",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/hege-token-logo.svg"
     }
   ],
   "version": {
