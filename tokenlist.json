@@ -543,6 +543,15 @@
       "name": "Hege",
       "symbol": "HEGE",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/hege-token-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "H2fjXJsDJq2ghbXzcYJzQ73sWj6A26qZouLtx6wmrd6",
+      "address": "0xc901d4d435a5f9b5a4c8b4074624b867d5295034",
+      "decimals": 6,
+      "name": "Solerium",
+      "symbol": "SOLE",
+      "logoURI": "https://solerium.io/sole_svg.svg"
     }
   ],
   "version": {
