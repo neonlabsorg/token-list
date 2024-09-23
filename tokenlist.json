@@ -543,6 +543,15 @@
       "name": "Hege",
       "symbol": "HEGE",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/hege-token-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "GDzfemoYR5GkbK4YupYpyq3E8Du9fSfKXxKDpkdrqGjs",
+      "address": "0xdDFC206c7fd2B99C87a12eC5A3599C350D6d13c7",
+      "decimals": 6,
+      "name": "Klausen Art",
+      "symbol": "KART",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/kart-token-logo.svg"
     }
   ],
   "version": {
