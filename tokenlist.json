@@ -546,6 +546,15 @@
     },
     {
       "chainId": 245022934,
+      "address_spl": "H2fjXJsDJq2ghbXzcYJzQ73sWj6A26qZouLtx6wmrd6",
+      "address": "0xc901d4d435a5f9b5a4c8b4074624b867d5295034",
+      "decimals": 6,
+      "name": "Solerium",
+      "symbol": "SOLE",
+      "logoURI": "https://solerium.io/sole_svg.svg"
+      },
+    {
+      "chainId": 245022934,
       "address_spl": "GDzfemoYR5GkbK4YupYpyq3E8Du9fSfKXxKDpkdrqGjs",
       "address": "0xdDFC206c7fd2B99C87a12eC5A3599C350D6d13c7",
       "decimals": 6,
