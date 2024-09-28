@@ -561,6 +561,15 @@
       "name": "SOLERIUM",
       "symbol": "SOLE",
       "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/solerium-logo.svg"
+    },
+    {
+      "chainId": 245022934,
+      "address_spl": "874mHtP579VYPxjthdrVU286Qk9fDPaZkw6KPnpZqPJf",
+      "address": "0x8fd74165048af8f63e0e2c8a0f7a80706e689265",
+      "decimals": 6,
+      "name": "RZ",
+      "symbol": "RZ",
+      "logoURI": "https://raw.githubusercontent.com/neonlabsorg/token-list/master/assets/rz-token-logo.svg"
     }
   ],
   "version": {
