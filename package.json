@@ -1,0 +1,6 @@
+{
+  "name": "neon-token-list",
+  "version": "1.0.0",
+  "description": "Token list for NeonEVM",
+  "main": "tokenlist.json"
+}
